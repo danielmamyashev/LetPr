@@ -96,16 +96,7 @@ void setup() {
 - Для вычисления высоты по барометрической формуле: ```pressureToAltitude()```
 
 Напишем в главном цикле:
-<!--```c++
-void loop() {
-   temp = bmp.readTemperature(); //Запись в переменную temp значения температуры
-   pres = bmp.readPressure(); //Запись в переменную pres значения давления
-
-   delay(1000); //Задержка в миллисекундах
-}
-```
-
--->```c++
+```c++
 void loop() {
    temp = bmp.readTemperature(); //Запись в переменную temp значения температуры
    pres = bmp.readPressure(); //Запись в переменную pres значения давления
