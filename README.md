@@ -138,9 +138,9 @@ void loop() {
 
    Serial.print(temp); //Вывод в serial port значения temp
    Serial.print(",");
-   Serial.print(pres); //Вывод в serial port значения temp
+   Serial.print(pres); //Вывод в serial port значения pres
    Serial.print(",");
-   Serial.print(altitude); //Вывод в serial port значения temp
+   Serial.print(altitude); //Вывод в serial port значения altitude
    Serial.print(",");
    Serial.println(); // Переход на следующую строчку
 
