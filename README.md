@@ -2,6 +2,7 @@
 
 - Перед началом, убедитесь, что у вас уже установлено **ArduinoIDE** (Последняя версия с [официального сайта](https://www.arduino.cc/en/software/). В случае проблем с последней версией, используйте legacy-версию);
 - При проблемах с загрузкой прошивки в ArduinoIDE, может потребоваться [драйвер](https://alexgyver.ru/arduino/CH341SER.EXE);
+- [Ознакомительная лекция](./lec.pdf).
 <!--
 - **[ERMTelemetry](https://github.com/danielmamyashev/ERMTelemetry)** - для наглядной визуализации данных пакетов телеметрии.
 
